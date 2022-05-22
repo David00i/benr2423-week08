@@ -1,4 +1,11 @@
 {
+	"name": "benr2423-vms",
+	"version": "1.0.0",
+	"description": "BENR2423 Visitor Management System API",
+	"main": "main.js",
+	"engines": {
+		"node": "14.x"
+	},
 	"scripts": {
 		"start": "node main.js",
 		"test": "jest"
